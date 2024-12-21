@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **ahmaddanialhariadi**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Front end web developer** di [Dicoding](https://www.dicoding.com/).\
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari dicoding(https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
