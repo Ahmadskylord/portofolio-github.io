@@ -7,6 +7,9 @@ Saya seorang **Front end web developer** di [Dicoding](https://www.dicoding.com/
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari dicoding(https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
+Free Module Bahasa pemrograman **Akses melalui Google Drive** di [Google Drive](https://drive.google.com/drive/u/0/mobile/folders/1XpIFIZXVqfn2GBqbifuVkG1Ix5E_pSoN).\
+
+
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmaddanialhariadi/)ku ya.
 <p align="left">
